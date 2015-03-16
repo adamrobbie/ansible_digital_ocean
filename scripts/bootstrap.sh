@@ -1,6 +1,6 @@
 APT_PACKAGES="python python-setuptools postgresql-common libpq-dev python-dev"
 EASY_INSTALL_PACKAGES="pip"
-PIP_PACKAGES="pyyaml jinja2 nose passlib pycrypto psycopg2 boto"
+PIP_PACKAGES="pyyaml jinja2 nose passlib pycrypto psycopg2 boto doby"
 
 sudo apt install $APT_PACKAGES
 sudo easy_install $EASY_INSTALL_PACKAGES

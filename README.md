@@ -1,3 +1,8 @@
+## What is this?
+
+This small project was my attempt to write a zero-to-deploy ansible script for any Rails project to a brand new Digital Ocean droplet.
+
+
 ### Ansible Setup
 
 - Run `scripts/bootstrap.sh`
